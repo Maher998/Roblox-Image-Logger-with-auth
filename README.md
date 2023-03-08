@@ -19,6 +19,7 @@ Debug as a normal 6.0 .Net Project
 ```
 Change webhook at line 19 Form2
 Change the info you need
+Username is "123" and password is "123"
 ```
   
 ## Notes ☂
